@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Staff Software Engineer at @goabstract, currently leading git-related work in the Desktop team.
+I'm a Staff Software Engineer at @goabstract, currently leading git-related work inside our local services.
 
 Check out my website at [melvin.la](https://melvin.la).
 
